@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      ![Project Banner](./src/assets/Graph_Component.png)
+      ![Alt text](./src/assets/Graph_Component.png)
   <br />
 </div>
 # Graph Component
